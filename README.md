@@ -121,4 +121,5 @@ This dashboard is best suited for:
 
 * AdventureWorks Dataset 
 
-📎 Project Preview (Screenshots)
+# 📎 Project Preview (Screenshots)
+![Dashboard Preview]()
