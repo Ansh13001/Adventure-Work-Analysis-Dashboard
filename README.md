@@ -122,4 +122,7 @@ This dashboard is best suited for:
 * AdventureWorks Dataset 
 
 # 📎 Project Preview (Screenshots)
-![Dashboard Preview]()
+![Dashboard Preview](Screenshot 2025-07-01 200135.png)
+
+
+![Dashboard Preview](Screenshot 2025-07-01 200135.png)
